@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .RED one-word domains still available to buy.
 
-This dataset contains 4,169 .RED one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,172 .RED one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.RED one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=red-oneword-domains&utm_content=description.top) (4,170) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
