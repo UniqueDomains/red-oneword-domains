@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
-| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
-| startup.red  | available | $14.99    | —             | 82             | 47     | 7      | name.com                                     |
-| fast.red     | resell    | $5,290    | $29.99        | 82             | 53     | 4      | Squarespace Domains II LLC                   |
-| power.red    | premium   | $780      | $780          | 98             | 62     | 5      | namecheap                                    |
-| strategy.red | available | $28.48    | —             | 74             | 43     | 8      | namecheap                                    |
-| creative.red | resell    | $5,290    | $29.99        | 92             | 45     | 8      | Squarespace Domains II LLC                   |
-| ace.red      | premium   | $82.50    | $82.50        | 88             | 57     | 3      | name.com                                     |
-| quick.red    | available | $14.99    | $29.99        | 72             | 42     | 5      | name.com                                     |
-| check.red    | resell    | $5,290    | $29.99        | 76             | 38     | 5      | Sav.com, LLC - 45                            |
-| art.red      | premium   | $780      | $780          | 90             | 52     | 3      | namecheap                                    |
-| agile.red    | available | $14.99    | $29.99        | 92             | 41     | 5      | name.com                                     |
-| edge.red     | resell    | —         | —             | 72             | 99     | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
-| life.red     | premium   | $650      | $650          | 84             | 50     | 4      | namecheap                                    |
-| genesis.red  | available | $14.99    | —             | 68             | 41     | 7      | name.com                                     |
-| woo.red      | resell    | —         | —             | 67             | 82     | 3      | NameCheap, Inc.                              |
-| car.red      | premium   | $2,600    | $2,600        | 94             | 46     | 3      | namecheap                                    |
-| gather.red   | available | $14.99    | $29.99        | 96             | 39     | 6      | name.com                                     |
-| cat.red      | resell    | —         | —             | 92             | 80     | 3      | DNSPod, Inc.                                 |
-| connect.red  | premium   | $5,290    | $29.99        | 76             | 45     | 7      | Squarespace Domains II LLC                   |
-| shared.red   | available | $14.99    | $29.99        | 70             | 39     | 6      | name.com                                     |
-| box.red      | resell    | —         | —             | 68             | 78     | 3      | Automattic Inc.                              |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
+| startup.red   | available | $14.99    | —             | 82             | 47     | 7      | name.com                                     |
+| fast.red      | resell    | $5,290    | $29.99        | 82             | 52     | 4      | Squarespace Domains II LLC                   |
+| power.red     | premium   | $780      | $780          | 98             | 62     | 5      | namecheap                                    |
+| strategy.red  | available | $28.48    | —             | 74             | 43     | 8      | namecheap                                    |
+| creative.red  | resell    | $5,290    | $29.99        | 92             | 45     | 8      | Squarespace Domains II LLC                   |
+| ace.red       | premium   | $82.50    | $82.50        | 88             | 57     | 3      | name.com                                     |
+| quick.red     | available | $14.99    | $29.99        | 72             | 42     | 5      | name.com                                     |
+| check.red     | resell    | $5,290    | $29.99        | 76             | 37     | 5      | Sav.com, LLC - 45                            |
+| art.red       | premium   | $780      | $780          | 90             | 52     | 3      | namecheap                                    |
+| agile.red     | available | $14.99    | $29.99        | 92             | 41     | 5      | name.com                                     |
+| edge.red      | resell    | —         | —             | 72             | 99     | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
+| life.red      | premium   | $650      | $650          | 84             | 50     | 4      | namecheap                                    |
+| genesis.red   | available | $14.99    | —             | 68             | 41     | 7      | name.com                                     |
+| woo.red       | resell    | —         | —             | 67             | 82     | 3      | NameCheap, Inc.                              |
+| car.red       | premium   | $2,600    | $2,600        | 94             | 46     | 3      | namecheap                                    |
+| gather.red    | available | $14.99    | $29.99        | 96             | 39     | 6      | name.com                                     |
+| cat.red       | resell    | —         | —             | 92             | 80     | 3      | DNSPod, Inc.                                 |
+| connect.red   | premium   | $5,290    | $29.99        | 76             | 45     | 7      | Squarespace Domains II LLC                   |
+| conscious.red | available | $14.99    | $29.99        | 89             | 38     | 9      | name.com                                     |
+| box.red       | resell    | —         | —             | 68             | 78     | 3      | Automattic Inc.                              |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
