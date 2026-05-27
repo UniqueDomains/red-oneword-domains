@@ -76,7 +76,7 @@ print(df.head())
 | commonground.red | available | $14.99    | —             | 74             | 28     | 13     | name.com    |
 | pins.red         | premium   | $82.50    | —             | 68             | 15     | 4      | name.com    |
 | has.red          | available | $14.99    | —             | 60             | 26     | 3      | name.com    |
-| appreciation.red | premium   | $82.50    | —             | 88             | 13     | 12     | name.com    |
+| appreciation.red | premium   | $82.50    | —             | 88             | 14     | 12     | name.com    |
 | boats.red        | available | $14.99    | —             | 52             | 24     | 5      | name.com    |
 | tablets.red      | premium   | $1,250    | —             | 68             | 11     | 7      | name.com    |
 | oceans.red       | available | $14.99    | —             | 64             | 22     | 6      | name.com    |
