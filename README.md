@@ -1,10 +1,10 @@
-# Available .RED One-Word Domains (11,241)
+# Available .RED One-Word Domains (11,243)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C241%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C243%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .red one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,241 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,243 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,241 domains · **Median ask:** $36.27 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,243 domains · **Median ask:** $37.25 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/red`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/red`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .RED one-word domain c
 
 ### Files
 
-- `red.csv` — public CSV extract (1,000 rows)
-- `red.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `red.csv`, public CSV extract (1,000 rows)
+- `red.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
-| lets.red         | available | $14.99    | —             | 77             | 39     | 4      | name.com    |
-| chiefs.red       | resell    | —         | —             | 50             | 10     | 6      | Dynadot Inc |
-| brands.red       | premium   | $625      | —             | 62             | 28     | 6      | name.com    |
-| payments.red     | available | $14.99    | —             | 58             | 33     | 8      | name.com    |
-| products.red     | premium   | $82.50    | —             | 60             | 23     | 8      | name.com    |
-| SanDiego.red     | available | $14.99    | —             | 74             | 29     | 9      | name.com    |
-| motors.red       | premium   | $750      | —             | 50             | 18     | 6      | name.com    |
-| quotes.red       | available | $14.99    | —             | 58             | 29     | 6      | name.com    |
-| vans.red         | premium   | $1,107    | $1,107        | 55             | 17     | 4      | namesilo    |
-| commonground.red | available | $14.99    | —             | 74             | 28     | 13     | name.com    |
-| pins.red         | premium   | $82.50    | —             | 68             | 15     | 4      | name.com    |
-| has.red          | available | $14.99    | —             | 60             | 26     | 3      | name.com    |
-| appreciation.red | premium   | $82.50    | —             | 88             | 14     | 12     | name.com    |
-| boats.red        | available | $14.99    | —             | 52             | 24     | 5      | name.com    |
-| tablets.red      | premium   | $1,250    | —             | 68             | 11     | 7      | name.com    |
-| oceans.red       | available | $14.99    | —             | 64             | 22     | 6      | name.com    |
-| dresses.red      | premium   | $625      | —             | 58             | 10     | 7      | name.com    |
-| brothers.red     | available | $14.99    | —             | 60             | 22     | 8      | name.com    |
-| SantaClara.red   | premium   | $92.40    | $92.40        | 75             | 9      | 11     | namecheap   |
-| teachers.red     | available | $14.99    | —             | 56             | 22     | 8      | name.com    |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                               |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
+| bce.red      | available | $14.99    | —             | medium         | low    | 3      | name.com                                                |
+| creative.red | resell    | $5,290    | $29.99        | high           | medium | 8      | Squarespace Domains II LLC                              |
+| dvd.red      | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                                |
+| dad.red      | available | $14.99    | —             | high           | low    | 3      | name.com                                                |
+| law.red      | resell    | —         | —             | high           | medium | 3      | Automattic Inc.                                         |
+| ink.red      | premium   | $750      | —             | high           | medium | 3      | name.com                                                |
+| jot.red      | available | $14.99    | —             | high           | low    | 3      | name.com                                                |
+| map.red      | resell    | —         | —             | high           | medium | 3      | Gandi SAS                                               |
+| aids.red     | premium   | $14.99    | —             | medium         | low    | 4      | name.com                                                |
+| LLP.red      | available | $14.99    | —             | high           | low    | 3      | name.com                                                |
+| new.red      | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC - 2                                        |
+| auto.red     | premium   | $5,200    | $5,200        | medium         | medium | 4      | namecheap                                               |
+| MMR.red      | available | $14.99    | —             | high           | low    | 3      | name.com                                                |
+| woo.red      | resell    | —         | —             | medium         | high   | 3      | NameCheap, Inc.                                         |
+| shoe.red     | premium   | $82.50    | —             | high           | low    | 4      | name.com                                                |
+| mum.red      | available | $14.99    | —             | high           | low    | 3      | name.com                                                |
+| city.red     | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC - 22                                       |
+| ba.red       | premium   | $1,107    | $1,107        | medium         | low    | 5      | namesilo                                                |
+| sue.red      | available | $14.99    | —             | high           | low    | 3      | name.com                                                |
+| east.red     | resell    | —         | —             | high           | low    | 4      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 11,241 live domains                        |
+| 1,000-row public sample | 11,243 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word .red domains. The set spans short, punchy terms such as ace.red and pour.red, broader dictionary words like radio.red and ticket.red, and more expressive options such as fantastic.red and christmas.red. For founders, the key question is whether the word stays clear, memorable, and commercially usable when paired with .red. For investors, the focus is whether the ask leaves room for a sensible entry relative to the extension’s narrower buyer pool. With a median ask of 36.30, price discipline matters less than word quality, clarity, and fit between the term and the .red ending.
+This list of .red domains includes 11,243 one-word domain names, each built from a single unbroken word or short phrase without hyphens or numbers. With a median ask near $37, this group spans everyday terms, techy phrasing, and playful combinations like herbbutter.red, useit.red, and neuroscience.red. Because .red carries lower baseline demand than mainstream TLDs, pricing stays accessible, making it easier to acquire a clean, brandable name or evaluate multiple options within this set. When comparing domains here, look at length, pronounceability, and how closely each term matches a recognizable word or brand-ready phrase.
 
-- Prefer clean dictionary words that read naturally with .red
-- Check whether the word gains meaning from the color-led TLD
-- Use ask price as a filter, but judge the word first
-- Be cautious with terms that may carry trademark risk
+- 11,243 one-word .red domain names, updated daily
+- Median ask near $37 across the set
+- No hyphens or numbers — clean, single-token names
+- Names span everyday words, tech terms, and phrases
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .RED One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .RED One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
