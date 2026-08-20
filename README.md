@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .red one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 16,070 domains · **Median ask:** $25.75 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-08-19
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/tld/red`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                               |
-| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
-| bce.red      | available | $14.99    | —             | medium         | low    | 3      | name.com                                                |
-| creative.red | resell    | $5,290    | $29.99        | high           | medium | 8      | Squarespace Domains II LLC                              |
-| dvd.red      | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                                |
-| dad.red      | available | $14.99    | —             | high           | low    | 3      | name.com                                                |
-| law.red      | resell    | —         | —             | high           | medium | 3      | Automattic Inc.                                         |
-| ink.red      | premium   | $750      | —             | high           | medium | 3      | name.com                                                |
-| jot.red      | available | $14.99    | —             | high           | low    | 3      | name.com                                                |
-| map.red      | resell    | —         | —             | high           | medium | 3      | Gandi SAS                                               |
-| aids.red     | premium   | $14.99    | —             | medium         | low    | 4      | name.com                                                |
-| LLP.red      | available | $14.99    | —             | high           | low    | 3      | name.com                                                |
-| new.red      | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC - 2                                        |
-| auto.red     | premium   | $5,200    | $5,200        | medium         | medium | 4      | namecheap                                               |
-| lxv.red      | available | $9.48     | $28.48        | low            | low    | 3      | namecheap                                               |
-| woo.red      | resell    | —         | —             | medium         | high   | 3      | NameCheap, Inc.                                         |
-| shoe.red     | premium   | $82.50    | —             | high           | low    | 4      | name.com                                                |
-| MMR.red      | available | $14.99    | —             | high           | low    | 3      | name.com                                                |
-| city.red     | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC - 22                                       |
-| ba.red       | premium   | $1,107    | $1,107        | medium         | low    | 5      | namesilo                                                |
-| mum.red      | available | $14.99    | —             | high           | low    | 3      | name.com                                                |
-| east.red     | resell    | —         | —             | high           | low    | 4      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                  |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------- |
+| tough.red    | available | —         | —             | high           | high   | 5      | —                          |
+| bce.red      | available | $14.99    | —             | medium         | low    | 3      | name.com                   |
+| creative.red | resell    | $5,290    | $29.99        | high           | medium | 8      | Squarespace Domains II LLC |
+| dvd.red      | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                   |
+| dad.red      | available | $14.99    | —             | high           | low    | 3      | name.com                   |
+| law.red      | resell    | —         | —             | high           | medium | 3      | Automattic Inc.            |
+| ink.red      | premium   | $750      | —             | high           | medium | 3      | name.com                   |
+| jot.red      | available | $14.99    | —             | high           | low    | 3      | name.com                   |
+| map.red      | resell    | —         | —             | high           | medium | 3      | Gandi SAS                  |
+| aids.red     | premium   | $14.99    | —             | medium         | low    | 4      | name.com                   |
+| LLP.red      | available | $14.99    | —             | high           | low    | 3      | name.com                   |
+| new.red      | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC - 2           |
+| auto.red     | premium   | $5,200    | $5,200        | medium         | medium | 4      | namecheap                  |
+| lxv.red      | available | $9.48     | $28.48        | low            | low    | 3      | namecheap                  |
+| woo.red      | resell    | —         | —             | medium         | high   | 3      | NameCheap, Inc.            |
+| shoe.red     | premium   | $82.50    | —             | high           | low    | 4      | name.com                   |
+| MMR.red      | available | $14.99    | —             | high           | low    | 3      | name.com                   |
+| city.red     | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC - 22          |
+| ba.red       | premium   | $1,107    | $1,107        | medium         | low    | 5      | namesilo                   |
+| mum.red      | available | $14.99    | —             | high           | low    | 3      | name.com                   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .RED One-Word Domains*. Version 2026-08-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .RED One-Word Domains*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
