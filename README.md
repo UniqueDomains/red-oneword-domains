@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .red one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 29,853 domains · **Median ask:** $19.11 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/red`
 **Best for:** founders, investors, studios
 
@@ -65,7 +65,7 @@ print(df.head())
 | domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                  |
 | ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------- |
 | bce.red      | available | $14.99    | —             | medium         | low    | 3      | name.com                   |
-| creative.red | resell    | $5,290    | $29.99        | high           | medium | 8      | Squarespace Domains II LLC |
+| creative.red | resell    | $5,290    | $29.99        | medium         | low    | 8      | Squarespace Domains II LLC |
 | dvd.red      | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                   |
 | dad.red      | available | $14.99    | —             | high           | low    | 3      | name.com                   |
 | law.red      | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.            |
@@ -83,7 +83,7 @@ print(df.head())
 | east.red     | resell    | —         | —             | high           | low    | 4      | Edomains LLC               |
 | ba.red       | premium   | $1,107    | $1,107        | low            | low    | 5      | namesilo                   |
 | mum.red      | available | $14.99    | —             | high           | low    | 3      | name.com                   |
-| park.red     | resell    | —         | —             | high           | low    | 4      | Realtime Register B.V.     |
+| ride.red     | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .RED One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .RED One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
