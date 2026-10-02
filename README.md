@@ -1,10 +1,10 @@
-# Available .RED One-Word Domains (27,880)
+# Available .RED One-Word Domains (29,349)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-27%2C880%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-29%2C349%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .red one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **27,880 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **29,349 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 27,880 domains · **Median ask:** $22.83 · **High-demand under $2,500:** 1
+**Public extract:** 1,000 rows · **Live catalog:** 29,349 domains · **Median ask:** $22.63 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-10-01
+**Last updated:** 2026-10-02
 **Canonical page:** `https://unique.domains/domains/tld/red`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
-| stylish.red     | available | $11.49    | $23.49        | high           | low    | 7      | namesilo                                     |
-| visual.red      | available | $9.48     | $28.48        | high           | low    | 6      | namecheap                                    |
-| logistics.red   | resell    | —         | —             | high           | low    | 9      | Squarespace Domains II LLC                   |
-| major.red       | available | $11.49    | $23.49        | high           | low    | 5      | namesilo                                     |
-| mantra.red      | available | $11.49    | $23.49        | high           | low    | 6      | namesilo                                     |
-| whole.red       | available | $11.49    | $23.49        | high           | low    | 5      | namesilo                                     |
-| advantage.red   | available | $18.20    | $18.20        | high           | low    | 9      | cloudflare                                   |
-| mission.red     | premium   | $68.51    | $68.51        | high           | medium | 7      | spaceship                                    |
-| reliability.red | available | $11.49    | $23.49        | high           | low    | 11     | namesilo                                     |
-| vegetable.red   | available | $11.49    | $23.49        | high           | low    | 9      | namesilo                                     |
-| visualize.red   | available | $11.49    | $23.49        | high           | low    | 9      | namesilo                                     |
-| familiar.red    | available | $11.49    | $23.49        | high           | low    | 8      | namesilo                                     |
-| plus.red        | resell    | —         | —             | high           | medium | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
-| masculine.red   | available | $11.49    | $23.49        | high           | low    | 9      | namesilo                                     |
-| realized.red    | available | $11.49    | $23.49        | high           | low    | 8      | namesilo                                     |
-| superstar.red   | available | $8.48     | $18.83        | high           | low    | 9      | spaceship                                    |
-| praise.red      | available | $11.49    | $23.49        | high           | low    | 6      | namesilo                                     |
-| spell.red       | available | $11.49    | $23.49        | high           | low    | 5      | namesilo                                     |
-| afl.red         | available | $11.49    | $23.49        | high           | low    | 3      | namesilo                                     |
-| meet.red        | resell    | —         | —             | high           | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
+| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
+| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
+| afl.red    | available | $11.49    | $23.49        | high           | low    | 3      | namesilo                                     |
+| meet.red   | resell    | —         | —             | high           | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
+| asp.red    | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                     |
+| aye.red    | available | $18.20    | $18.20        | medium         | low    | 3      | cloudflare                                   |
+| plus.red   | resell    | —         | —             | high           | medium | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
+| lan.red    | premium   | $625      | —             | high           | low    | 3      | name.com                                     |
+| cir.red    | available | $11       | —             | high           | low    | 3      | unstoppable                                  |
+| time.red   | resell    | —         | —             | high           | medium | 4      | Automattic Inc.                              |
+| ses.red    | premium   | $85.80    | $85.80        | high           | low    | 3      | namecheap                                    |
+| cnt.red    | available | $11.49    | $23.49        | high           | low    | 3      | namesilo                                     |
+| what.red   | resell    | —         | —             | high           | medium | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
+| sst.red    | premium   | $72.60    | $72.60        | high           | low    | 3      | dynadot                                      |
+| doi.red    | available | $14.99    | $39.99        | high           | low    | 3      | godaddy                                      |
+| token.red  | resell    | —         | —             | high           | medium | 5      | Squarespace Domains II LLC                   |
+| bend.red   | premium   | $85.80    | $85.80        | high           | low    | 4      | namecheap                                    |
+| fdp.red    | available | $8.24     | $19.05        | medium         | low    | 3      | porkbun                                      |
+| events.red | resell    | —         | —             | high           | low    | 6      | Spaceship, Inc.                              |
+| ohio.red   | premium   | $621.20   | $621.20       | high           | low    | 4      | spaceship                                    |
+| gag.red    | available | $8.48     | $18.83        | high           | low    | 3      | spaceship                                    |
+| sensor.red | resell    | —         | —             | high           | low    | 6      | DNSPod, Inc.                                 |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 27,880 live domains                        |
+| 1,000-row public sample | 29,349 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 1 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .RED One-Word Domains*. Version 2026-10-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .RED One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
